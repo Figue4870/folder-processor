@@ -1,4 +1,5 @@
 # Folder Processor (CSV Cleaner)
+“Drag-and-drop a folder of CSVs → get cleaned files + summary + report.”
 
 A small “folder processor” that ingests all CSV files in a folder, cleans them, and produces:
 - `output/cleaned_*.csv`
