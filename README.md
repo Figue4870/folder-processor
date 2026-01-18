@@ -41,5 +41,6 @@ python folder_processor.py --input sample_data --output output
 This repo includes sample_data/ with messy CSV examples to reproduce typical real-world issues.
 
 ## Example output
-![Report preview](assets/report_preview.png.png)
+![Folder Processor Report](assets/folder_processor_report.png)
+
 
